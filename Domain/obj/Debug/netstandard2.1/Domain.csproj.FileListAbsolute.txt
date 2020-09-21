@@ -1,0 +1,8 @@
+C:\Users\Gabor\Desktop\netreactjs\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Gabor\Desktop\netreactjs\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Gabor\Desktop\netreactjs\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Gabor\Desktop\netreactjs\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Gabor\Desktop\netreactjs\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Gabor\Desktop\netreactjs\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Gabor\Desktop\netreactjs\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Gabor\Desktop\netreactjs\Domain\obj\Debug\netstandard2.1\Domain.pdb
